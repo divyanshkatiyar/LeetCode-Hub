@@ -63,7 +63,7 @@ Difficulty| Solved
 🔴 Hard| 0
 Total| 0
 
-«Progress is updated regularly as I solve more problems.»
+> Progress is updated regularly as I solve more problems.
 
 ---
 
