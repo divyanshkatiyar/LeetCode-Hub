@@ -1,7 +1,9 @@
+<div align="center">
+  
 # 🚀 LeetCode Hub
-
-«Consistency beats intensity.
-A curated collection of my LeetCode solutions, documenting my journey to mastering Data Structures & Algorithms, improving problem-solving skills, and preparing for software engineering interviews.»
+---
+  
+### A curated collection of my LeetCode solutions, documenting my journey to mastering Data Structures & Algorithms, improving problem-solving skills, and preparing for software engineering interviews.
 
 ---
 
