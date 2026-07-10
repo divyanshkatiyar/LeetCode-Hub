@@ -28,9 +28,11 @@ This repository contains my solutions to LeetCode problems, implemented with a s
 ## 📂 Repository Structure
 ```
 LeetCode-Hub/
-├── Easy/
-├── Medium/
-├── Hard/
+├── C++/
+├── Python/
+├── JavaScript/
+├── SQL/
+├── LICENSE/
 └── README.md
 ```
 ---
@@ -57,11 +59,11 @@ LeetCode-Hub/
 
 ## 📊 Progress
 
-Difficulty| Solved
-🟢 Easy| 0
-🟡 Medium| 0
-🔴 Hard| 0
-Total| 0
+|Difficulty| Solved|
+|🟢 Easy| 1090 |
+|🟡 Medium| 876 |
+|🔴 Hard| 560 |
+|Total| 2526 |
 
 > Progress is updated regularly as I solve more problems.
 
