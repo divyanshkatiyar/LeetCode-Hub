@@ -59,12 +59,12 @@ LeetCode-Hub/
 
 ## 📊 Progress
 
-|Difficulty| Solved|
-|🟢 Easy| 1090 |
-|🟡 Medium| 876 |
-|🔴 Hard| 560 |
-|Total| 2526 |
-
+| Difficulty | Solved |
+|----------|------|
+| 🟢 Easy | 1090 |
+| 🟠 Medium | 876 |
+| 🔴 Hard | 560 |
+| 📈 Total | 2526 |
 > Progress is updated regularly as I solve more problems.
 
 ---
