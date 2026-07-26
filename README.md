@@ -7,7 +7,7 @@
 
 ## 📖 About
 
-This repository contains my solutions to LeetCode problems, implemented with a strong focus on:
+> This repository contains my solutions to LeetCode problems, implemented with a strong focus on:
 
 - 🧠 Clean and readable code
 - ⚡ Efficient algorithms
@@ -18,8 +18,6 @@ This repository contains my solutions to LeetCode problems, implemented with a s
 ---
 
 ## 🏢 Company-wise Problems 
-
-> 📌 Prepare for technical interviews with curated problem sets from top tech companies. Each company folder contains categorized solutions, while the corresponding CSV file provides an organized list of frequently asked questions.
 
 | Company | Resources |
 | :------ | :-------: |
@@ -93,7 +91,7 @@ LeetCode-Hub/
 
 ## 🌱 Learning Journey
 
-Every solved problem is a step toward becoming a better software engineer. This repository reflects my commitment to continuous learning, consistency, and writing high-quality code.
+> Every solved problem is a step toward becoming a better software engineer. This repository reflects my commitment to continuous learning, consistency, and writing high-quality code.
 
 ---
 
