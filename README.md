@@ -41,16 +41,6 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 
 ---
 
-## 🎯 Objectives
-
-- Solve LeetCode problems consistently.
-- Master Data Structures & Algorithms.
-- Improve logical and analytical thinking.
-- Prepare a helpful resource for coding interview preparations.
-- Build consistency and problem solving skills.
-
----
-
 ## 📊 Progress
 
 | Difficulty | Solved |
@@ -60,6 +50,16 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 | 🔴 **[Hard](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/C%2B%2B/Hard)** | 560 |
 | 📈 **[Total]()** | 2526 |
 > Progress is updated regularly as I solve more problems.
+
+---
+
+## 🎯 Objectives
+
+- Solve LeetCode problems consistently.
+- Master Data Structures & Algorithms.
+- Improve logical and analytical thinking.
+- Prepare a helpful resource for coding interview preparations.
+- Build consistency and problem solving skills.
 
 ---
 
