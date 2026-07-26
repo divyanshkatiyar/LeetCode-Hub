@@ -17,9 +17,9 @@ This repository contains my solutions to LeetCode problems, implemented with a s
 
 ---
 
-## 🏢 Company-wise Problems ( New 🎁 🎉 ) 
+## 🏢 Company-wise Problems 
 
-Prepare for technical interviews with curated problem sets from top tech companies. Each company folder contains categorized solutions, while the corresponding CSV file provides an organized list of frequently asked questions.
+> 📌 Prepare for technical interviews with curated problem sets from top tech companies. Each company folder contains categorized solutions, while the corresponding CSV file provides an organized list of frequently asked questions.
 
 | Company | Resources |
 | :------ | :-------: |
@@ -36,8 +36,6 @@ Prepare for technical interviews with curated problem sets from top tech compani
 | 🟠 Infosys | 📁 Solutions • 📄 CSV |
 | 🟡 TCS | 📁 Solutions • 📄 CSV |
 | 🟣 Nivida | 📁 Solutions • 📄 CSV |
-
-> 📌 Each folder contains problem solutions, and each CSV file serves as a company-specific problem tracker to help you prepare efficiently.
 
 ---
 
