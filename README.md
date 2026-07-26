@@ -1,7 +1,7 @@
 # 🚀 LeetCode Hub
 ---
   
-### A curated collection of my LeetCode solutions, helping students master Data Structures & Algorithms, improve problem-solving skills, and prepare efficiently for coding interviews.
+### Curated collection of my LeetCode solutions, helping students master Data Structures & Algorithms, improve problem-solving skills, and prepare efficiently for coding interviews.
 
 ---
 
@@ -81,10 +81,10 @@ LeetCode-Hub/
 
 | Difficulty | Solved |
 |----------|------|
-| 🟢 Easy | 1090 |
-| 🟠 Medium | 876 |
-| 🔴 Hard | 560 |
-| 📈 Total | 2526 |
+| 🟢 **[Easy](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/C%2B%2B/Easy)** | 1090 |
+| 🟠 **[Medium](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/C%2B%2B/Medium)** | 876 |
+| 🔴 **[Hard](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/C%2B%2B/Hard)** | 560 |
+| 📈 **[Total]()** | 2526 |
 > Progress is updated regularly as I solve more problems.
 
 ---
