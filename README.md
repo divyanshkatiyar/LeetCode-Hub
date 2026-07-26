@@ -7,13 +7,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Curated collection of **my LeetCode solutions**, helping students master **Data Structures & Algorithms**, improve **problem-solving** skills, and prepare efficiently for **coding interviews**.
-
 ---
 
 ## 📖 About
 
-> This repository contains my solutions to LeetCode problems, implemented with a strong focus on:
+Curated collection of **my LeetCode solutions**, helping students master **Data Structures & Algorithms**, improve **problem-solving** skills, and prepare efficiently for **coding interviews** with strong focus on :
 
 - 🧠 Clean and readable code
 - ⚡ Optimized code (Time & Space Complexity) 
