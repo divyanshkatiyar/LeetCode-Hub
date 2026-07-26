@@ -22,8 +22,8 @@
 | Company | Resources |
 | :------ | :-------: |
 | 🟠 Amazon | 📁 Solutions • 📄 CSV |
-| 🔵 Google | 📁 Solutions • 📄 CSV |
-| 🟣 Microsoft | 📁 Solutions • 📄 CSV |
+| 🔵 Google | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Google)** |
+| 🟣 Microsoft | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Microsoft)** |
 | 🔵 Meta | 📁 Solutions • 📄 CSV |
 | 🟡 Apple | 📁 Solutions • 📄 CSV |
 | 🟢 Adobe | 📁 Solutions • 📄 CSV |
