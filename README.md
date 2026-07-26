@@ -16,7 +16,7 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 > This repository contains my solutions to LeetCode problems, implemented with a strong focus on:
 
 - 🧠 Clean and readable code
-- ⚡ Efficient algorithms
+- ⚡ Optimized code (Time & Space Complexity) 
 - 📚 Continuous DSA learning
 - 📈 Consistent daily practice
 - 💡 Understanding multiple approaches whenever possible
@@ -40,27 +40,6 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 | 🟠 Infosys | 📁 Solutions • 📄 CSV |
 | 🟡 TCS | 📁 Solutions • 📄 CSV |
 | 🟣 Nivida | 📁 Solutions • 📄 CSV |
-
----
-
-## 📂 Repository Structure
-```
-LeetCode-Hub/
-├── C++/
-├── Python/
-├── JavaScript/
-├── SQL/
-├── LICENSE/
-└── README.md
-```
----
-
-## 📌 Every Solution Includes
-
-- ✅ Optimized source code
-- ✅ Time Complexity
-- ✅ Space Complexity
-- ✅ Clean implementation
 
 ---
 
