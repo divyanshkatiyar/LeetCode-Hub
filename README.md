@@ -48,7 +48,7 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 | 🟢 **[Easy](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/C%2B%2B/Easy)** | 1090 |
 | 🟠 **[Medium](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/C%2B%2B/Medium)** | 876 |
 | 🔴 **[Hard](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/C%2B%2B/Hard)** | 560 |
-| 📈 **[Total]()** | 2526 |
+| 📈 **[Total](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/C%2B%2B)** | 2526 |
 > Progress is updated regularly as I solve more problems.
 
 ---
