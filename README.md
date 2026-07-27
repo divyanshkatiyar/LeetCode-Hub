@@ -21,7 +21,7 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 
 | Company | Resources |
 | :------ | :-------: |
-| 🟠 Amazon | 📁 Solutions • 📄 CSV |
+| 🟠 Amazon | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Amazon)** |
 | 🔵 Google | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Google)** |
 | 🟣 Microsoft | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Microsoft)** |
 | 🔵 Meta | 📁 Solutions • 📄 CSV |
