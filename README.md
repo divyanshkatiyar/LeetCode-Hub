@@ -72,5 +72,7 @@ If you find this repository useful or inspiring, consider giving it a ⭐.
 ---
 
 <div align="center">
-**Happy Coding! 🧑‍💻**
+  
+**Happy Coding 🧑‍💻!**
+
 </div>
