@@ -69,4 +69,8 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 
 If you find this repository useful or inspiring, consider giving it a ⭐.
 
-Happy Coding! 🚀
+---
+
+<div align="center">
+**Happy Coding! 🧑‍💻**
+</div>
