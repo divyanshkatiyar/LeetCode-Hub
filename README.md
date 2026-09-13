@@ -25,12 +25,8 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 | 🔵 Google | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Google)** |
 | 🟣 Microsoft | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Microsoft)** |
 | 🔵 Meta | 📁 Solutions • 📄 CSV |
-| 🟡 Apple | 📁 Solutions • 📄 CSV |
+| 🟤 Apple | 📁 Solutions • 📄 CSV |
 | 🟢 Adobe | 📁 Solutions • 📄 CSV |
-| 🟣 Goldman Sachs | 📁 Solutions • 📄 CSV |
-| 🟢 Walmart Global Tech | 📁 Solutions • 📄 CSV |
-| 🟠 Oracle | 📁 Solutions • 📄 CSV |
-| 🟤 Uber | 📁 Solutions • 📄 CSV |
 | 🟠 Infosys | 📁 Solutions • 📄 CSV |
 | 🟡 TCS | 📁 Solutions • 📄 CSV |
 | 🟣 Nivida | 📁 Solutions • 📄 CSV |
