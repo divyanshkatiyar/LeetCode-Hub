@@ -6,13 +6,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-Curated collection of **my LeetCode solutions**, helping students master **Data Structures & Algorithms**, improve **problem-solving** skills, and prepare efficiently for **coding interviews** with strong focus on :
+Curated collection of my **LeetCode solutions**, helping students master **Data Structures & Algorithms**, improve **problem-solving** skills, and prepare efficiently for **coding interviews** with strong focus on :
 
 - 🧠 Clean and readable code
 - ⚡ Optimized code (Time & Space Complexity) 
 - 📚 Continuous DSA learning
 - 📈 Consistent daily practice
-- 💡 Understanding multiple approaches whenever possible
+- 💡 Understand multiple approaches whenever possible
 
 ---
 
@@ -23,12 +23,6 @@ Curated collection of **my LeetCode solutions**, helping students master **Data 
 | 🟠 Amazon | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Amazon)** |
 | 🔵 Google | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Google)** |
 | 🟣 Microsoft | 📁 Solutions • **[📄 CSV](https://github.com/divyanshkatiyar/LeetCode-Hub/tree/main/Microsoft)** |
-| 🔵 Meta | 📁 Solutions • 📄 CSV |
-| 🟤 Apple | 📁 Solutions • 📄 CSV |
-| 🟢 Adobe | 📁 Solutions • 📄 CSV |
-| 🟠 Infosys | 📁 Solutions • 📄 CSV |
-| 🟡 TCS | 📁 Solutions • 📄 CSV |
-| 🟣 Nivida | 📁 Solutions • 📄 CSV |
 
 ---
 
